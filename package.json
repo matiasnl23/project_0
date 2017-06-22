@@ -1,0 +1,17 @@
+{
+  "name": "projecto_0",
+  "version": "0.0.1",
+  "description": "API Restful",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Matías Lobo",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "mongoose": "^4.10.7",
+    "nodemon": "^1.11.0"
+  }
+}
